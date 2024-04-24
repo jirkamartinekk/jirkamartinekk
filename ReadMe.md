@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on nothing 😏<br>🌱 I’m studying JavaScript, Git, Python, C#<br>⚡ Fun fact: Most of my repos are private...
+🔭 I’m currently working on nothing 😏<br>🌱 I’m studying Kotlin, JavaScript, Git, Python, C++<br>⚡ Fun fact: Most of my repos are private...
 
 ## 🌐 Socials:
 
